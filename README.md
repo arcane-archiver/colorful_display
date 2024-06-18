@@ -1,8 +1,8 @@
-# Colorful Display in a [Webpage](https://arcane-archiver.github.io/colorful_display/)
+# Colorful Display in a [Webpage](https://serene-meadow.github.io/colorful_display/)
 
 This program displays animated color gradients.
 
-The purpose of this repository is to host a [webpage](https://arcane-archiver.github.io/colorful_display/) that displays the graphical output of the program.
+The purpose of this repository is to host a [webpage](https://serene-meadow.github.io/colorful_display/) that displays the graphical output of the program.
 
 ## Project File Structure
 * `source/` contains the C++ code for the graphical program.
